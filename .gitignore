@@ -1,0 +1,4 @@
+env/
+secrets.yaml
+training_data.jsonl
+validation_data.jsonl
